@@ -1,0 +1,38 @@
+# Thư mục node_modules (cài tự động, không cần push)
+node_modules/
+
+# Biến môi trường và file cấu hình riêng tư
+.env
+.env.*.local
+
+# File log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Cache
+.cache/
+.tmp/
+dist/
+build/
+coverage/
+
+# VSCode settings (nếu không muốn chia sẻ)
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# PM2 logs
+pids/
+logs/
+*.pid
+*.seed
+
+# Optional: bỏ package-lock nếu không cần đồng bộ package version
+# package-lock.json
