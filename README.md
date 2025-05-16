@@ -141,19 +141,6 @@ POST /api/orders/1/send-confirmation
 
 ---
 
-## 📁 Cấu trúc thư mục
-
-```
-/config          # Cấu hình MySQL + dotenv
-/controllers     # Xử lý HTTP request
-/routes          # Định nghĩa route
-/service         # Xử lý nghiệp vụ
-/model           # Truy vấn SQL
-/utils           # Gửi email
-```
-
----
-
 ## 🧠 Gợi ý mở rộng (optional)
 
 * JWT Authentication
@@ -165,7 +152,7 @@ POST /api/orders/1/send-confirmation
 
 ## ✍️ Tác giả
 
-* Họ tên: \[Tên của bạn]
-* Email: [gu@gmail.com](mailto:gu@gmail.com)
-* Ngày thực hiện: \[dd/mm/yyyy – dd/mm/yyyy]
+* Họ tên: Bế Văn Thành
+* Email: thanhgay171@gmail.com
+* Ngày thực hiện: [16/5/2025 - 17/5/2025]
 
